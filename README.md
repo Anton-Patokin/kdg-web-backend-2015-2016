@@ -121,3 +121,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 - Siebe Vandeneynde
 	- email: siebe.vandeneynden@student.kdg.be
 	- GitHub: https://github.com/SiebeVE
+	- 
+- Patokin Anton
+	- email: Patokin.anton@gmail.com
+	- GitHub: https://github.com/Anton-Patokin/web-backend-oplossingen.git
